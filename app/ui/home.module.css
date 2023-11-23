@@ -1,0 +1,15 @@
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
+
+.shapeTwo {
+    height: 0;
+    width: 0;
+    border: 30px solid purple; 
+    border-radius: 50%;
+    margin-left: 5px;
+}
